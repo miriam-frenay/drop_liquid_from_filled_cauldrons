@@ -1,0 +1,4 @@
+name: drop_liquid_from_filled_cauldrons
+version: '1.0'
+main: nl.followyourdreams.drop_liquid_from_filled_cauldrons.DropLiquidFromFilledCauldrons
+api-version: '1.20'
